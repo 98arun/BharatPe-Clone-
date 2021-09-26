@@ -1,0 +1,20 @@
+{
+  "name": "bharatpe-clone",
+  "version": "1.0.0",
+  "description": "Try to clone BharatPe tech app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-sass":"sass --watch ./assets/stylesheet/scss/main.scss ./assets/stylesheet/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/98arun/BharatPe-Clone-.git"
+  },
+  "author": "Arun Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/98arun/BharatPe-Clone-/issues"
+  },
+  "homepage": "https://github.com/98arun/BharatPe-Clone-#readme"
+}
